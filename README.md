@@ -5,7 +5,7 @@ A browser implementation of the classic 2048 puzzle game built with JavaScript, 
 
 ## Demo
 
-* [DEMO LINK](https://github.com/SoraEmpty/2048)
+* [DEMO LINK](https://SoraEmpty.github.io/2048)
 
 ## Technologies Used
 
